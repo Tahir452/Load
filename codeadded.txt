@@ -1,0 +1,4 @@
+REACT_APP_AUTH0_DOMAIN= loadeo.us.auth0.com
+REACT_APP_AUTH0_CLIENT_ID= R74Ai7KD2JcqROphIzzKstqmZYvLdKQ3
+
++'/callback'
